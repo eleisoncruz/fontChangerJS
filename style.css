@@ -1,0 +1,9 @@
+
+#wrapper {
+  width: 400px;
+  float: left;
+}
+
+#fonts, input {
+  float: right;
+}
